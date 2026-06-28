@@ -63,3 +63,5 @@ docker run -p 8080:8080 agent-mcp
 
 ### Kilo AI Connection
 The MCP server exposes a stdio interface compatible with Kilo AI's MCP client for agent communication.
+
+
